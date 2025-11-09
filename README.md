@@ -1,4 +1,4 @@
-# 📈 Inteligência Preditiva para Otimização de Capital e Risco de Crédito ($\text{RAROC}$-Driven)
+#  Inteligência Preditiva para Otimização de Capital e Risco de Crédito ($\text{RAROC}$-Driven)
 
 ## Resumo Executivo: Ganhos Reais com Sustentabilidade
 
