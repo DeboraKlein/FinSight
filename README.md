@@ -19,10 +19,10 @@ O modelo automatiza a identificação de clientes no ciclo vicioso de linhas car
 
 | Métrica | Valor Final | Ponto Chave |
 | :--- | :--- | :--- |
-| **Poder Preditivo ($\text{AUC}$)** | **$\mathbf{0.7732}$** | **Alta Robustez** – Supera o benchmark de $\text{AUC} > 0.75$ para modelos de risco. |
-| **Captura de Risco ($\text{Recall}$)** | **$\mathbf{89\%}$** | De 100 clientes que entrariam no Rotativo, $\mathbf{89}$ são capturados para intervenção. |
+| **Poder Preditivo ($\text{AUC}$)** | **$\mathbf{0.7776}$** | **Alta Robustez** – Supera o benchmark de $\text{AUC} > 0.75$ para modelos de risco. |
+| **Captura de Risco ($\text{Recall}$)** | **$\mathbf{100\%}$** | De 100 clientes que entrariam no Rotativo, $\mathbf{89}$ são capturados para intervenção. |
 | **Threshold de Ação** | **$\mathbf{0.20}$** | Ponto de corte que maximiza o Retorno Ajustado ao Risco ($\text{RAROC}$). |
-| **Viabilidade Operacional** | **$\text{Precision}$ $\mathbf{32\%}$** | O custo de $\mathbf{68\%}$ de Falsos Positivos é convertido em uma Estratégia de Fidelização (Ofertas Consultivas). |
+| **Viabilidade Operacional** | **$\text{Precision}$ $\mathbf{36\%}$** | O custo de $\mathbf{64\%}$ de Falsos Positivos é convertido em uma Estratégia de Fidelização (Ofertas Consultivas). |
 
 ---
 
@@ -33,7 +33,7 @@ Os gráficos gerados na modelagem são a prova visual da eficácia e da lógica 
 ### 2.1. Curva ROC: Poder Preditivo
 
 // Formato Correto:
-![Curva ROC do Modelo LightGBM com AUC de 0.7732](https://github.com/DeboraKlein/FinSight/blob/main/data/assets/curva_ROC.png)
+![Curva ROC do Modelo LightGBM com AUC de 0.7776](https://github.com/DeboraKlein/FinSight/blob/main/data/assets/curva_ROC.png)
 
 > **O que este gráfico significa?**
 > Este gráfico mostra a **capacidade do modelo de distinguir** entre um cliente que vai entrar no rotativo e um cliente seguro. O **$\text{AUC}$ de $\mathbf{0.7732}$** é a prova de que nosso modelo é altamente eficaz, afastando-se drasticamente da linha diagonal (que representa uma adivinhação aleatória).
@@ -50,7 +50,7 @@ Os gráficos gerados na modelagem são a prova visual da eficácia e da lógica 
 > ![Matriz de Confusão do Modelo LightGBM com Threshold 0.20](https://github.com/DeboraKlein/FinSight/blob/main/data/assets/matriz_confusao.png)
 
 > **O que este gráfico significa?**
-> Este é o resultado de negócio. Os **Verdadeiros Positivos (TP)** representam os clientes de risco que **capturamos com sucesso** e que evitamos que gerassem $\text{PDD}$ (prejuízo). Esta matriz valida que o *threshold* $\mathbf{0.20}$ alcança um alto volume de captura de risco ($\text{Recall}$ $\mathbf{89\%}$), protegendo o capital da FinTech.
+> Este é o resultado de negócio. Os **Verdadeiros Positivos (TP)** representam os clientes de risco que **capturamos com sucesso** e que evitamos que gerassem $\text{PDD}$ (prejuízo). Esta matriz valida que o *threshold* $\mathbf{0.20}$ alcança um alto volume de captura de risco ($\text{Recall}$ $\mathbf{100\%}$), protegendo o capital da FinTech.
 
 ---
 
