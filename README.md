@@ -32,21 +32,21 @@ Os gráficos gerados na modelagem são a prova visual da eficácia e da lógica 
 
 ### 2.1. Curva ROC: Poder Preditivo
 
-> 
+> [https://github.com/DeboraKlein/FinSight/blob/main/data/assets/curva_ROC.png]
 
 > **O que este gráfico significa?**
 > Este gráfico mostra a **capacidade do modelo de distinguir** entre um cliente que vai entrar no rotativo e um cliente seguro. O **$\text{AUC}$ de $\mathbf{0.7732}$** é a prova de que nosso modelo é altamente eficaz, afastando-se drasticamente da linha diagonal (que representa uma adivinhação aleatória).
 
 ### 2.2. Top 10 Features Mais Importantes
 
-> 
+> [https://github.com/DeboraKlein/FinSight/blob/main/data/assets/features.png]
 
 > **O que este gráfico significa?**
 > Ele mostra **o que o modelo realmente aprendeu**. As *features* mais importantes são aquelas que medem a **mudança de comportamento (tendência)** do cliente, como o **Crescimento do Gasto** e a **Taxa de Comprometimento de Renda Implícita ($\text{scr\_tcr\_implicita}$)**. O modelo ignora características estáticas (como Região ou Idade), focando apenas nos sinais de estresse financeiro agudo.
 
 ### 2.3. Matriz de Confusão ($\text{Threshold}$ $\mathbf{0.20}$)
 
-> 
+> [https://github.com/DeboraKlein/FinSight/blob/main/data/assets/matriz_confusao.png]
 
 > **O que este gráfico significa?**
 > Este é o resultado de negócio. Os **Verdadeiros Positivos (TP)** representam os clientes de risco que **capturamos com sucesso** e que evitamos que gerassem $\text{PDD}$ (prejuízo). Esta matriz valida que o *threshold* $\mathbf{0.20}$ alcança um alto volume de captura de risco ($\text{Recall}$ $\mathbf{89\%}$), protegendo o capital da FinTech.
