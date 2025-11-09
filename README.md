@@ -43,7 +43,7 @@ Os gráficos gerados na modelagem são a prova visual da eficácia e da lógica 
 > ![Top 10 Features Mais Importantes (Gain) do LightGBM](https://github.com/DeboraKlein/FinSight/blob/main/data/assets/features.png)
 
 > **O que este gráfico significa?**
-> Ele mostra **o que o modelo realmente aprendeu**. As *features* mais importantes são aquelas que medem a **mudança de comportamento (tendência)** do cliente, como o **Crescimento do Gasto** e a **Taxa de Comprometimento de Renda Implícita ($\text{scr\_tcr\_implicita}$)**. O modelo ignora características estáticas (como Região ou Idade), focando apenas nos sinais de estresse financeiro agudo.
+> Ele mostra **o que o modelo realmente aprendeu**. As *features* mais importantes são aquelas que medem a **mudança de comportamento (tendência)** do cliente, como o **Crescimento do Gasto** e a **Taxa de Comprometimento de Renda Implícita `scr_tcr_implicita`**. O modelo ignora características estáticas (como Região ou Idade), focando apenas nos sinais de estresse financeiro agudo.
 
 ### 2.3. Matriz de Confusão ($\text{Threshold}$ $\mathbf{0.20}$)
 
