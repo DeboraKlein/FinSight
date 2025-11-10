@@ -9,14 +9,14 @@
 ![ML](https://img.shields.io/badge/ML-LightGBM-orange)
 
 
-> *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
+> *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado."*
 
 ## Resumo Executivo: Ganhos Reais com Sustentabilidade
 
 ![Performance](https://img.shields.io/badge/Performance-Validada%20OOT-green)
 ![RAROC](https://img.shields.io/badge/RAROC-Otimizado-important)
 
-Este projeto propõe uma solução de **intervenção de crédito proativa** baseada em Machine Learning (ML) avançado para Fintechs.
+Este projeto propõe uma solução de intervenção proativa em crédito para Fintechs, usando Machine Learning para identificar clientes em estresse financeiro agudo e oferecer alternativas sustentáveis antes do default.
 
 O modelo identifica clientes em **Estresse Agudo** (evitando o efeito bola de neve da dívida) e aciona uma oferta de crédito antecipada e consultiva. O foco é substituir produtos de alto custo (como Cartão Rotativo e Parcelamento de Fatura) por um **empréstimo com taxas de juros significativamente mais baixas**.
 
@@ -164,11 +164,10 @@ O projeto demonstra **sustentabilidade financeira comprovada** através de:
 
 ---
 
-## Autoria
+### Autoria
 
-**Desenvolvido por:** [Debora Rebula Klein](https://github.com/DeboraKlein)  
+Débora Rebula Klein 
 
-**Email:** deborarebula@gmail.com 
-
-**LinkedIn:** [Seu Perfil](www.linkedin.com/in/débora-klein)
-
+    📧 deborarebula@gmail.com 
+    🔗 LinkedIn 
+    🔗 GitHub
