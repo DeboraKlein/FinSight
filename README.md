@@ -11,8 +11,10 @@
 
 ## Autoria
 
-**Desenvolvido por:** [Seu Nome](https://github.com/DeboraKlein)  
+**Desenvolvido por:** [Debora Rebula Klein](https://github.com/DeboraKlein)  
+
 **Email:** deborarebula@gmail.com 
+
 **LinkedIn:** [Seu Perfil](www.linkedin.com/in/débora-klein)
 
 > *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
