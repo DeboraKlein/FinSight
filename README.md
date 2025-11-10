@@ -7,7 +7,7 @@
 ![Recall](https://img.shields.io/badge/Recall-100%25-success)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![ML](https://img.shields.io/badge/ML-LightGBM-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## Autoria
 
