@@ -41,7 +41,7 @@ O modelo automatiza a identificação de clientes no ciclo vicioso de linhas car
 ![Curva ROC do Modelo LightGBM com AUC de 0.7776](https://github.com/DeboraKlein/FinSight/blob/main/data/assets/curva_ROC.png)
 
 > **O que este gráfico significa?**
-> Este gráfico mostra a **capacidade do modelo de distinguir** entre um cliente que vai entrar no rotativo e um cliente seguro. O **$\text{AUC}$ de $\mathbf{0.7732}$** é a prova de que nosso modelo é altamente eficaz, afastando-se drasticamente da linha diagonal (que representa uma adivinhação aleatória).
+> Este gráfico mostra a **capacidade do modelo de distinguir** entre um cliente que vai entrar no rotativo e um cliente seguro. O **$\text{AUC}$ de $\mathbf{0.7776}$** é a prova de que nosso modelo é altamente eficaz, afastando-se drasticamente da linha diagonal (que representa uma adivinhação aleatória).
 
 ---
 
