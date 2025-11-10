@@ -9,14 +9,6 @@
 ![ML](https://img.shields.io/badge/ML-LightGBM-orange)
 
 
-## Autoria
-
-**Desenvolvido por:** [Debora Rebula Klein](https://github.com/DeboraKlein)  
-
-**Email:** deborarebula@gmail.com 
-
-**LinkedIn:** [Seu Perfil](www.linkedin.com/in/débora-klein)
-
 > *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
 
 ## Resumo Executivo: Ganhos Reais com Sustentabilidade
@@ -169,4 +161,14 @@ O projeto demonstra **sustentabilidade financeira comprovada** através de:
 
 ---
 *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
+
+---
+
+## Autoria
+
+**Desenvolvido por:** [Debora Rebula Klein](https://github.com/DeboraKlein)  
+
+**Email:** deborarebula@gmail.com 
+
+**LinkedIn:** [Seu Perfil](www.linkedin.com/in/débora-klein)
 
