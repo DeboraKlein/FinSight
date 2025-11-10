@@ -169,5 +169,5 @@ O projeto demonstra **sustentabilidade financeira comprovada** através de:
 Débora Rebula Klein 
 
     📧 deborarebula@gmail.com 
-    🔗 LinkedIn 
-    🔗 GitHub
+    🔗 www.linkedin.com/in/débora-klein
+    
