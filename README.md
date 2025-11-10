@@ -2,7 +2,25 @@
 
 # Inteligência Preditiva para Otimização de Capital e Risco de Crédito (RAROC-Driven)
 
+![Status](https://img.shields.io/badge/Status-Pronto%20para%20MVP-brightgreen)
+![AUC](https://img.shields.io/badge/AUC-0.7776-blue)
+![Recall](https://img.shields.io/badge/Recall-100%25-success)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![ML](https://img.shields.io/badge/ML-LightGBM-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+## Autoria
+
+**Desenvolvido por:** [Seu Nome](https://github.com/DeboraKlein)  
+**Email:** deborarebula@gmail.com 
+**LinkedIn:** [Seu Perfil](www.linkedin.com/in/débora-klein)
+
+> *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
+
 ## Resumo Executivo: Ganhos Reais com Sustentabilidade
+
+![Performance](https://img.shields.io/badge/Performance-Validada%20OOT-green)
+![RAROC](https://img.shields.io/badge/RAROC-Otimizado-important)
 
 Este projeto propõe uma solução de **intervenção de crédito proativa** baseada em Machine Learning (ML) avançado para Fintechs.
 
@@ -148,5 +166,5 @@ O projeto demonstra **sustentabilidade financeira comprovada** através de:
 4. Expansão para outros produtos de crédito
 
 ---
-
 *"Transformando risco preditivo em oportunidade estratégica com 100% de proteção e AUC 0.7776 validado"*
+
