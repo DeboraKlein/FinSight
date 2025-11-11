@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-11 17:20:43",
+  "model": "LightGBM",
+  "n_clientes": 10000,
+  "n_meses": 24,
+  "mes_inicio_estresse": 18,
+  "pct_estresse": 0.2,
+  "target": "entrou_rotativo_proximo_mes",
+  "auc_oot": 0.7721211331721192,
+  "threshold_otimizado": 0.2,
+  "auc_cv_mean": 0.7242724021935321,
+  "auc_cv_std": 0.0055,
+  "average_precision": 0.6154,
+  "lift_top_10pct": 3.04,
+  "recall": 1.0,
+  "precision": 0.263,
+  "top_features": [
+    "scr_tcr_implicita",
+    "utilizacao_limite_media_3m",
+    "limite_cartao",
+    "scr_crescim_divida_3m",
+    "gasto_crescim_3m"
+  ],
+  "validation_summary": {
+    "data_leakage": "PASS",
+    "oot_validation": "PASS",
+    "temporal_validation": "PASS",
+    "data_drift": "EXPECTED_BEHAVIOR",
+    "feature_stability": "PASS",
+    "business_alignment": "EXCELLENT"
+  },
+  "strategic_insights": {
+    "crisis_effectiveness": "HIGHER_PERFORMANCE",
+    "fp_interpretation": "BUSINESS_OPPORTUNITIES",
+    "prevention_coverage": "COMPLETE",
+    "operational_efficiency": "HIGH"
+  }
+}
