@@ -33,7 +33,7 @@ O modelo **LightGBM** foi otimizado com foco total em **Recall da Classe 1 (Rota
 
 ---
 
-## 3. 📚 Fundamentação Teórica: Estresse Financeiro e Endividamento Familiar
+## 3.  Fundamentação Teórica: Estresse Financeiro e Endividamento Familiar
 
 A tese do modelo é suportada pela escalada do endividamento brasileiro:
 
@@ -43,7 +43,7 @@ A tese do modelo é suportada pela escalada do endividamento brasileiro:
 
 ---
 
-## 4. 🏦 Alinhamento Regulatório e Gestão de Risco (PECLD / IFRS 9)
+## 4.  Alinhamento Regulatório e Gestão de Risco (PECLD / IFRS 9)
 
 O impacto deste modelo se estende à gestão de risco e aos relatórios financeiros:
 
@@ -52,7 +52,7 @@ O impacto deste modelo se estende à gestão de risco e aos relatórios financei
 
 ---
 
-## 5. 🛡️ Rigor Técnico: Validações Avançadas e Robustez
+## 5.  Rigor Técnico: Validações Avançadas e Robustez
 
 [cite_start]A robustez do modelo foi confirmada por uma série de validações além do OOT (Out-of-Time)[cite: 1]:
 
